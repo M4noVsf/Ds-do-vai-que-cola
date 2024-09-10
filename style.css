@@ -6,13 +6,11 @@ body{
     align-items: center;
     height: 700px;
     margin: 0;
-    font-size: larger;
 }
 
 button {
     background-color: white;
     color: black;
-    font-size: larger;
 }
 
 .passo {
